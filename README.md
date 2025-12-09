@@ -32,6 +32,4 @@ Nowadays I focus on the MERN stack and C++ development. Tomorrow? Who knows...
 ![](https://nirzak-streak-stats.vercel.app/?user=mfms5&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfms5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfms5)](https://github.com/anuraghazra/github-readme-stats)
-
 Created with [GPRM](https://gprm.itsvg.in).
